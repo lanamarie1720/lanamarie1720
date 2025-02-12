@@ -9,3 +9,5 @@
 🎮 Playing: [Stardew Valley](https://stardewvalleywiki.com/Stardew_Valley_Wiki) on Nintendo Switch</br>
 📚 Reading: [The Assassin's Blade](https://throneofglass.fandom.com/wiki/The_Assassin%27s_Blade) by Sarah J. Maas (Throne of Glass series)</br>
 
+<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
+[![Lana's GitHub stats](https://github-readme-stats.vercel.app/api?username=lanamarie1720&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
